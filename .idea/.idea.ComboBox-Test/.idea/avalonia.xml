@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ComboBox-Test/Views/MainWindow.axaml" value="ComboBox-Test/ComboBox-Test.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
